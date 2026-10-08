@@ -18,9 +18,9 @@
         </div>
         <!-----Navagation buttons-->
         <div id="nav-buttons">
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="Help.html">Help</a>
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a href="Help.php">Help</a>
         </div>
     </header>
     <main>
